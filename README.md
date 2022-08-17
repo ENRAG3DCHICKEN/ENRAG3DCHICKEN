@@ -39,7 +39,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/jackieyiu"><img src="https://img.shields.io/badge/-Jackie%20Yiu-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 <!---
