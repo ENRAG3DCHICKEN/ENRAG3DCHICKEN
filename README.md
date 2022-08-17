@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-&#09; <a href="https://www.linkedin.com/in/jackieyiu"><img src="https://img.shields.io/badge/-Jackie%20Yiu-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+&nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jackieyiu"><img src="https://img.shields.io/badge/-Jackie%20Yiu-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <!---
 ENRAG3DCHICKEN/ENRAG3DCHICKEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
