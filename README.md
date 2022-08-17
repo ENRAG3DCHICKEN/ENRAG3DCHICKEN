@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ENRAG3DCHICKEN
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Jetpack Compose 
-- 💞️ I’m looking to collaborate on Fintech + DeFi Apps 
-- 📫 Reach me on LinkedIn
-
-### Hi there 👋
+### Oh hello there! 👋
 
 <h2>I'm Jackie.</h2>
 
