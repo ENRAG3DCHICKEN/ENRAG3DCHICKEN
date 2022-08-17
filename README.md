@@ -1,4 +1,4 @@
-### Oh hello there! 👋
+### Hi there! 👋
 
 <h2>I'm Jackie.</h2>
 
