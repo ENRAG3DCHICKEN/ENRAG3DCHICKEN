@@ -5,7 +5,7 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 👀 &nbsp; I’m interested in Mobile App Development
-- 🌱 &nbsp; I’m currently learning Jetpack Compose 
+- 🌱 &nbsp; I’m currently learning Unity Engine 
 - 🤔 &nbsp; I’m looking to collaborate on Fintech + DeFi Apps 
 - 📫 &nbsp; Reach me on LinkedIn
 
